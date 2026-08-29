@@ -16,5 +16,5 @@ Live Demo:
 - Vercel (Deployment)
 
 Status:
-Phase 1 Complete: Static UI built.  
-Phase 2 (Upcoming): Integrating JavaScript for dynamic content fetching and interactive UI features during semester break.
+- Phase 1 Complete: Static UI built.  
+- Phase 2 (Upcoming): Integrating JavaScript for dynamic content fetching and interactive UI features during semester break.
